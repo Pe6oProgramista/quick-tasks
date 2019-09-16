@@ -1,0 +1,22 @@
+{
+  "name": "quick-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "goat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pe6oProgramista/quick-tasks.git"
+  },
+  "author": "Peter Milev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pe6oProgramista/quick-tasks/issues"
+  },
+  "homepage": "https://github.com/Pe6oProgramista/quick-tasks#readme",
+  "devDependencies": {
+    "readline": "^1.3.0"
+  }
+}
